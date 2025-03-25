@@ -11,6 +11,8 @@ sites = [
     "http://www.example.org",
     "http://www.example.net",
     "http://www.google.com",
+    "http://www.httpforever.com",
+    "https://www.sme.sk",
 ]
 
 threads = []
